@@ -21,3 +21,5 @@
 ## APO settings
 SV off/400/Steam 100%/Rear for 15 minutes
 Change steam to 0% for 30 minutes or until loaf reaches 190
+
+!(Bread/Nutrition Info/Screenshot from 2022-01-28 13-11-27.png?raw=true "Chocolate Bread")
