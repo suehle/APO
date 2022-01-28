@@ -1,13 +1,13 @@
-#German brotchen 
+# German brotchen 
 
-##Ingredients
+## Ingredients
 * 500g Flour 
 * 300g Water
 * 20g Olive Oil
 * 10g Salt
 * 1g Active Dry Yeast
 
-##Directions
+## Directions
 1. Mix all ingredients until no dry flour remains
 2. Bulk proof at room temp overnight
 3. Make 90g balls
@@ -23,4 +23,4 @@
 4. Bake 450F/Rear/0% Steam 3-7 min until crisp
 
 From FB APO User Group
-​
+
