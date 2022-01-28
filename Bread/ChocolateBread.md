@@ -19,7 +19,7 @@
 4. Put in greased Dutch oven, lid off.
 
 ## APO settings
-SV off/400/Steam 100%/Rear for 15 minutes
-Change steam to 0% for 30 minutes or until loaf reaches 190
+* SV off/400/Steam 100%/Rear for 15 minutes
+* Change steam to 0% for 30 minutes or until loaf reaches 190
 
-![chocolate bread](Bread/Nutrition Info/Screenshot from 2022-01-28 13-11-27.png?raw=true "Chocolate Bread")
+![chocolate bread](https://github.com/suehle/APO/blob/5683d389cb3108f9f82b9d43948bd024596ab497/Bread/Nutrition%20Info/Screenshot%20from%202022-01-28%2013-11-27.png)
