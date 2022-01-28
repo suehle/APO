@@ -1,13 +1,15 @@
 # Chocolate bread
 
 ## Ingredients
-* 2 cups whole wheat flour
-* 2 cups all-purpose flour
+* 2.25 cups whole wheat flour
+* 1.75 cups all-purpose flour
 * 2 teaspoon salt
 * ¾ teaspoon active dry yeast
 * 2 cups water, room temperature
 * .4 cup cocoa powder
-* some sugar (maybe 1/8 cup)
+* some chia seeds (maybe 1/8 cup?)
+* some ground flax (I don't know, I'll learn to measure one day)
+* some sugar (maybe 1/8 cup), can sub erithrytol/monkfruit
 * some mini chocolate chips (measure that with your heart)
 
 ## Directions
