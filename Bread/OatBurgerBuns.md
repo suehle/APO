@@ -25,5 +25,6 @@ Change steam to 0% for 10 minutes or until buns reach 190
 375°F for 15 to 20 minutes
 
 ## Nutrition info
-With sprouted rolled oats
 ![oat burger buns](https://github.com/suehle/APO/blob/cfd3a13a11d58b5e0946dc7424953a75f1b89c08/Bread/Nutrition%20Info/oatburgerbuns.png)
+
+(nutrition info calculated with With sprouted rolled oats)
