@@ -17,3 +17,4 @@ Optional, but for added deliciousness:
 2. 350° for 12-14 minutes
 
 ## Nutrition
+![almond flour cookies](https://github.com/suehle/APO/blob/2d70f9b7800e47eeb30aa5fb69ec29883164d8aa/non-APO/Nutrition%20Info/almondcookies.png)
