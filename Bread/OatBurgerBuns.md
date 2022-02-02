@@ -1,14 +1,15 @@
 # Oat Burger Buns
 
 ## Ingredients
-* 2 cups whole wheat flour 
-* 1.5 cups bread flour
-* 1.5 cups rolled oats 
-* 2 cups water 100–110°F
-* 1 Tbsp yeast
-* 3 Tb oil 
-* 2 tsp salt
-* optional -- 1/4 cup honey or other sweetener
+* 1 cups whole wheat flour 
+* 1 cups bread flour
+* 2/3 cup rolled oats 
+* 2 Tb ground flax seeds
+* 1 cups water 100–110°F
+* 1.5 tsp yeast
+* 1.5 Tb oil 
+* 1 tsp salt
+* optional -- 2 Tb honey or other sweetener
 
 ## Directions
 1. Knead all together with bread hook
@@ -16,9 +17,12 @@
 3. Make 6 buns
 4. Rise another hour
 
+## APO settings
+SV off/350/Steam 100%/Rear for 10 minutes
+Change steam to 0% for 10 minutes or until buns reach 190
 
+## Regular oven
+375°F for 15 to 20 minutes
 
-Preheat oven to 375°F.
-
-Brush the tops of each bun with egg wash and sprinkle each with a few oats.
-Bake for 15 to 20 minutes, until golde
+## Nutrition info
+With sprouted rolled oats
