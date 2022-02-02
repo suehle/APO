@@ -12,7 +12,7 @@
 * 1.5 tsp salt
 * Optional: Ground flax, chia, other seeds
 
-## One-day directions
+## Directions
 1. Boil water, pour over cereal, wait to cool to 100°
 2. Knead it all together
 3. Rise an hour
